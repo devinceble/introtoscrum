@@ -18,7 +18,6 @@ $theme: default
 > Sometimes you gotta run before you can walk. 
 > --Tony Stark
 
-	> @streetby boot
 
 ---
 
@@ -179,8 +178,5 @@ $theme: default
 [Introduction to Scrum - 7 Minutes by Uzility](https://www.youtube.com/watch?v=9TycLR0TqFA)
 
 [Spotify Engineering Culture](https://www.youtube.com/watch?v=R2o-Xm3UVjs&t=540s)
-
- #### Presentation Repository 
-https://github.com/devinceble/introtoscrum
 
 
